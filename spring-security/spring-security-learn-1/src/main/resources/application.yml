@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://124.71.114.210:3306/security?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true # mybatis 下划线命名转驼峰命名
