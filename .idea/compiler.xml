@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-generator" />
         <module name="spring-security" />
         <module name="spring-security-learn-1" />
+        <module name="redis" />
+        <module name="swagger-UI" />
       </profile>
     </annotationProcessing>
   </component>

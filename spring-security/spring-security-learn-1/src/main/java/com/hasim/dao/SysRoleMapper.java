@@ -5,7 +5,7 @@ import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 
 /**
- * @Description
+ * @Description 用户权限表 mapper
  * @Author Hasim
  * @Date 2021/9/9 10:16
  * @Version 1.0

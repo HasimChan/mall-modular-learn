@@ -11,7 +11,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 import org.springframework.security.crypto.password.PasswordEncoder;
 
 /**
- * @Description
+ * @Description security 配置类
  * @Author Hasim
  * @Date 2021/9/9 10:39
  * @Version 1.0
@@ -68,7 +68,6 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
                 .and()
                 .logout().permitAll();
-
         // 关闭CSRF跨域
         http.csrf().disable();
     }

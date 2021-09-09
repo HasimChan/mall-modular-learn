@@ -3,7 +3,7 @@ package com.hasim.pojo;
 import java.io.Serializable;
 
 /**
- * @Description
+ * @Description 用户信息类
  * @Author Hasim
  * @Date 2021/9/9 9:47
  * @Version 1.0

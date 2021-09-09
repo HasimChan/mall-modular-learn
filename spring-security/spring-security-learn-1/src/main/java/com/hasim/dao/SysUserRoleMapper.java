@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Select;
 import java.util.List;
 
 /**
- * @Description
+ * @Description 用户信息 - 权限表 mapper
  * @Author Hasim
  * @Date 2021/9/9 10:17
  * @Version 1.0

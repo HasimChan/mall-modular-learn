@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Description
+ * @Description 通过用户名在数据库中查找用户并赋予权限
  * @Author Hasim
  * @Date 2021/9/9 10:26
  * @Version 1.0
